@@ -7,7 +7,7 @@ Fluidinfo backend store for okfn/annotator
 Make sure that you have the following Perl modules installed (e.g. via
 CPAN or system packages):
 
-Mojolicious
+Mojolicious  
 Net::Fluidinfo
 
 ## Usage
