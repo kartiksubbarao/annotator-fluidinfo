@@ -15,7 +15,7 @@ Net::Fluidinfo
 Set up an HTML page with the annotator Store plugin. Here is an example
 from the annotator dev.html page:
 
-`
+```
 <script>
 	var devAnnotator
 	(function ($) {
@@ -33,7 +33,7 @@ from the annotator dev.html page:
 		});
 	}(jQuery));
 </script>
-`
+```
 
 Set the FLUIDINFO_USERNAME and FLUIDINFO_PASSWORD environment variables
 accordingly, and then start the backend:
