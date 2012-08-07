@@ -35,7 +35,7 @@ from the annotator dev.html page:
 </script>
 ```
 
-Set the FLUIDINFO_USERNAME and FLUIDINFO_PASSWORD environment variables
+Set the `FLUIDINFO_USERNAME` and `FLUIDINFO_PASSWORD` environment variables
 accordingly, and then start the backend:
 
 `annotator-fluidinfo.pl`
